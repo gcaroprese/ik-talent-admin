@@ -1,0 +1,925 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Talents Admin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-02 11:23+0000\n"
+"PO-Revision-Date: 2023-11-14 11:17-0300\n"
+"Last-Translator: Gabriel\n"
+"Language-Team: Spanish (Argentina)\n"
+"Language: es_AR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Loco-Version: 2.6.6; wp-6.3.2\n"
+
+#: include/class/class.talent_main.php:1091
+msgid " and "
+msgstr " y "
+
+#: include/class/class.talent_main.php:1097
+msgid "(123) 456-7891 (Optional)"
+msgstr "(123) 456-7891 (Opcional)"
+
+#: include/talent_post_type.php:124 templates/talents.php:29
+#: templates/talents.php:113 include/class/class.talents.php:543
+#: include/class/class.talent_main.php:507
+#: include/class/class.talent_main.php:634
+msgid "Active"
+msgstr "Activo"
+
+#: include/talent_post_type.php:125 templates/talents.php:30
+#: templates/talents.php:114
+msgid "Active Search"
+msgstr "Búsqueda Activa"
+
+#: include/class/class.talent_main.php:593
+msgid "Active?"
+msgstr "¿Activo?"
+
+#: include/class/class.talent_requests.php:189
+msgid "Add Answer"
+msgstr "Agregar Respuesta"
+
+#: include/class/class.talent_main.php:293
+msgid "Add Language"
+msgstr "Agregar Idioma"
+
+#: include/talent_post_type.php:182 include/talent_post_type.php:191
+#: templates/talents.php:90 templates/talents.php:99 templates/talents.php:167
+#: templates/talents.php:176
+msgid "Add More"
+msgstr "Agregar Más"
+
+#: include/talent_post_type.php:21
+msgctxt "add new on admin bar"
+msgid "Talent"
+msgstr "Talento"
+
+#: templates/skills.php:50 templates/skills.php:56
+msgid "Add New Skill"
+msgstr "Agregar Nueva Habilidad"
+
+#: include/talent_post_type.php:23 templates/talents.php:105
+#: templates/talents.php:111
+msgid "Add New Talent"
+msgstr "Agregar Nuevo Talento"
+
+#: templates/techstack.php:40 templates/techstack.php:46
+msgid "Add New Tech Stack"
+msgstr "Agregar Nueva Pila Tecnológica"
+
+#: templates/questions.php:93
+msgid "Add Question"
+msgstr "Agregar Pregunta"
+
+#: templates/skills.php:66
+msgid "Add Skill"
+msgstr "Agregar Habilidad"
+
+#: include/class/class.skills.php:626
+msgid "Add skill"
+msgstr "Agregar habilidad"
+
+#: templates/talents.php:179
+msgid "Add Talent"
+msgstr "Agregar Talento"
+
+#: templates/techstack.php:52 include/class/class.techstack.php:440
+msgid "Add Tech Stack"
+msgstr "Agregar Pila Tecnológica"
+
+#: include/class/class.talent_requests.php:195
+msgid "Add text field at the end"
+msgstr "Agregar campo de texto al final"
+
+#: include/talent_post_type.php:20
+msgctxt "admin menu"
+msgid "Talents"
+msgstr "Talentos"
+
+#: templates/questions.php:288
+msgid "After Form Button"
+msgstr "Después del Botón del Formulario"
+
+#: templates/questions.php:297
+msgid "Email to get responses"
+msgstr "Correo Electrónico"
+
+#: include/class/class.talent_main.php:44
+msgid "Arabic"
+msgstr "Árabe"
+
+#: templates/enquiries.php:128 templates/enquiries.php:160
+#: templates/skills.php:224 templates/skills.php:256 templates/talents.php:246
+#: templates/talents.php:278 templates/techstack.php:114
+#: templates/techstack.php:146
+msgid "Are you sure to delete?"
+msgstr "¿Estás seguro de eliminar?"
+
+#: include/class/class.talent_main.php:70
+msgid "Armenian"
+msgstr "Armenio"
+
+#: include/class/class.talent_main.php:831
+msgid "Back"
+msgstr "Volver"
+
+#: include/class/class.talent_main.php:71
+msgid "Bengali"
+msgstr "Bengalí"
+
+#: include/class/class.talent_main.php:61
+msgid "Bulgarian"
+msgstr "Búlgaro"
+
+#: include/class/class.talent_main.php:82
+msgid "Burmese"
+msgstr "Birmano"
+
+#: include/class/class.talent_main.php:1102
+msgid "By completing signup, you are agreeing to our "
+msgstr "Al completar el registro, aceptas nuestros "
+
+#: templates/talents.php:475 include/class/class.talent_main.php:237
+msgid "Change Image "
+msgstr "Cambiar Imagen "
+
+#: include/class/class.talent_main.php:42
+msgid "Chinese"
+msgstr "Chino"
+
+#: include/class/class.talent_main.php:688
+#: include/class/class.talent_requests.php:368
+msgid "Company"
+msgstr "Empresa"
+
+#: include/class/class.talent_main.php:321
+#: include/class/class.talent_main.php:341
+msgid "Company / organization Name"
+msgstr "Nombre de la Empresa / Organización"
+
+#: include/class/class.talent_main.php:1095
+msgid "Company Name"
+msgstr "Nombre de la Empresa"
+
+#: include/class/class.talent_main.php:1099
+msgid "Connect With Your Talent"
+msgstr "Conéctate con tu Talento"
+
+#: include/class/class.talent_main.php:1096
+msgid "Contact Name"
+msgstr "Nombre de Contacto"
+
+#: include/class/class.talent_main.php:701
+msgid "Course"
+msgstr "Curso"
+
+#: include/class/class.talent_main.php:704
+msgid "Course Graduation"
+msgstr "Graduación del Curso"
+
+#: include/class/class.talent_main.php:364
+#: include/class/class.talent_main.php:383
+msgid "Course Title / Certification"
+msgstr "Título del Curso / Certificación"
+
+#: include/class/class.talent_main.php:632
+msgid "Courses"
+msgstr "Cursos"
+
+#: include/talent_post_type.php:185 templates/talents.php:93
+#: templates/talents.php:170
+msgid "Courses / Certifications"
+msgstr "Cursos / Certificaciones"
+
+#: templates/questions.php:276
+msgid "Create Quizzes"
+msgstr "Crear Cuestionarios"
+
+#: templates/questions.php:308
+msgid "Create Skill Roles First"
+msgstr "Crea Roles de Habilidad Primero"
+
+#: include/class/class.talent_main.php:62
+msgid "Croatian"
+msgstr "Croata"
+
+#: include/class/class.talents.php:527
+msgid "CV"
+msgstr "CV"
+
+#: include/talent_post_type.php:167 templates/talents.php:153
+msgid "CV - PDF/Doc"
+msgstr "CV - PDF/Doc"
+
+#: templates/talents.php:69
+msgid "CV - PDF/Doc (Replace)"
+msgstr "CV - PDF/Doc (Reemplazar)"
+
+#: include/class/class.talent_main.php:627
+msgid "CV URL"
+msgstr "URL del CV"
+
+#: include/class/class.talent_main.php:54
+msgid "Czech"
+msgstr "Checo"
+
+#: include/class/class.talent_main.php:50
+msgid "Danish"
+msgstr "Danés"
+
+#: include/class/class.talent_requests.php:372
+msgid "Date"
+msgstr "Fecha"
+
+#: include/class/class.talent_main.php:635
+msgid "Date Created"
+msgstr "Fecha de Creación"
+
+#: include/class/class.talent_main.php:636
+msgid "Date Updated"
+msgstr "Fecha de Actualización"
+
+#: templates/skills.php:88 templates/skills.php:98
+#: include/class/class.skills.php:498 include/class/class.skills.php:532
+#: include/class/class.talents.php:531 include/class/class.talents.php:578
+#: include/class/class.talent_main.php:238
+#: include/class/class.talent_main.php:323
+#: include/class/class.talent_main.php:343
+#: include/class/class.talent_main.php:366
+#: include/class/class.talent_main.php:385
+#: include/class/class.talent_requests.php:165
+#: include/class/class.talent_requests.php:374
+#: include/class/class.talent_requests.php:459
+#: include/class/class.techstack.php:323 include/class/class.techstack.php:356
+msgid "Delete"
+msgstr "Eliminar"
+
+#: templates/skills.php:87 templates/skills.php:97 templates/skills.php:172
+#: include/class/class.talent_main.php:327
+#: include/class/class.talent_main.php:347
+#: include/class/class.talent_main.php:370
+#: include/class/class.talent_main.php:389
+#: include/class/class.talent_main.php:690
+#: include/class/class.talent_main.php:703
+msgid "Description"
+msgstr "Descripción"
+
+#: include/class/class.talent_main.php:880
+#: include/class/class.talent_main.php:924
+msgid "Desired areas of expertise"
+msgstr "Áreas de experiencia deseadas"
+
+#: templates/talents.php:65 templates/talents.php:149
+#: include/class/class.talents.php:528 include/class/class.talent_main.php:595
+#: include/class/class.talent_main.php:633
+#: include/class/class.talent_requests.php:445
+msgid "Details"
+msgstr "Detalles"
+
+#: include/class/class.talent_requests.php:61
+msgid "Discover More Professionals"
+msgstr "Descubre Más Profesionales"
+
+#: include/class/class.talent_main.php:777
+msgid "Do not show"
+msgstr "No mostrar"
+
+#: include/class/class.talent_main.php:598
+msgid "Download Resume"
+msgstr "Descargar Currículum"
+
+#: include/class/class.talent_main.php:40
+msgid "Dutch"
+msgstr "Holandés"
+
+#: include/class/class.skills.php:531 include/class/class.talents.php:577
+#: include/class/class.techstack.php:355
+msgid "Edit"
+msgstr "Editar"
+
+#: templates/skills.php:36
+msgid "Edit Skill"
+msgstr "Editar Habilidad"
+
+#: templates/skills.php:26
+msgid "Edit Skills"
+msgstr "Editar Habilidades"
+
+#: include/talent_post_type.php:25 include/talent_post_type.php:79
+#: templates/talents.php:26
+msgid "Edit Talent"
+msgstr "Editar Talento"
+
+#: templates/techstack.php:30
+msgid "Edit Tech Stack"
+msgstr "Editar Pila Tecnológica"
+
+#: include/talent_post_type.php:136 include/talent_post_type.php:137
+#: templates/talents.php:41 templates/talents.php:42 templates/talents.php:125
+#: templates/talents.php:126 include/class/class.talent_main.php:584
+#: include/class/class.talent_main.php:624
+#: include/class/class.talent_main.php:1094
+#: include/class/class.talent_requests.php:370
+msgid "Email"
+msgstr "Correo Electrónico"
+
+#: include/class/class.talent_main.php:35
+msgid "English"
+msgstr "Inglés"
+
+#: include/menus.php:26 templates/enquiries.php:16
+msgid "Enquiries"
+msgstr "Consultas"
+
+#: include/class/class.talent_main.php:66
+msgid "Estonian"
+msgstr "Estonio"
+
+#: include/talent_post_type.php:176 templates/talents.php:84
+#: templates/talents.php:161 include/class/class.talent_main.php:631
+msgid "Experience"
+msgstr "Experiencia"
+
+#: include/class/class.talents.php:547
+msgid "Export CSV"
+msgstr "Exportar a CSV"
+
+#: include/class/class.talent_requests.php:380
+msgid "Export to CSV"
+msgstr "Exportar a CSV"
+
+#: include/class/class.talent_main.php:51
+msgid "Finnish"
+msgstr "Finlandés"
+
+#: include/class/class.talent_requests.php:366
+#: include/class/class.talent_requests.php:367
+msgid "Form Data"
+msgstr "Datos del Formulario"
+
+#: include/class/class.talent_main.php:36
+msgid "French"
+msgstr "Francés"
+
+#. Author of the plugin
+msgid "Gabriel Caroprese"
+msgstr "Gabriel Caroprese"
+
+#: include/class/class.talent_main.php:69
+msgid "Georgian"
+msgstr "Georgiano"
+
+#: include/class/class.talent_main.php:37
+msgid "German"
+msgstr "Alemán"
+
+#: include/class/class.talent_main.php:816
+msgid "Get Started"
+msgstr "Comenzar"
+
+#: include/class/class.talent_main.php:372
+#: include/class/class.talent_main.php:391
+msgid "Graduation Year"
+msgstr "Año de Graduación"
+
+#: include/class/class.talent_main.php:52
+msgid "Greek"
+msgstr "Griego"
+
+#: include/class/class.talent_main.php:76
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: include/class/class.talent_main.php:57
+msgid "Hebrew"
+msgstr "Hebreo"
+
+#: include/class/class.talent_main.php:45
+msgid "Hindi"
+msgstr "Hindi"
+
+#. Author URI of the plugin
+msgid "https://inforket.com/"
+msgstr "https://inforket.com/"
+
+#: include/class/class.talent_main.php:55
+msgid "Hungarian"
+msgstr "Húngaro"
+
+#: include/class/class.skills.php:493 include/class/class.talents.php:525
+#: include/class/class.talent_main.php:620
+#: include/class/class.talent_requests.php:364
+#: include/class/class.techstack.php:319
+msgid "ID"
+msgstr "ID"
+
+#: include/class/class.talents.php:544 include/class/class.talent_main.php:507
+msgid "Inactive"
+msgstr "Inactivo"
+
+#: include/class/class.talent_main.php:58
+msgid "Indonesian"
+msgstr "Indonesio"
+
+#: include/class/class.talent_main.php:368
+#: include/class/class.talent_main.php:387
+msgid "Institution"
+msgstr "Institución"
+
+#: include/class/class.talent_main.php:702
+msgid "Intitution"
+msgstr "Institución"
+
+#: include/class/class.talent_main.php:38
+msgid "Italian"
+msgstr "Italiano"
+
+#: include/class/class.talent_main.php:43
+msgid "Japanese"
+msgstr "Japonés"
+
+#: include/class/class.talent_main.php:325
+#: include/class/class.talent_main.php:345
+#: include/class/class.talent_main.php:689
+msgid "Job Title"
+msgstr "Cargo"
+
+#: include/class/class.talent_main.php:78
+msgid "Kannada"
+msgstr "Canarés"
+
+#: include/class/class.talent_main.php:83
+msgid "Khmer"
+msgstr "Jemer"
+
+#: include/class/class.talent_main.php:46
+msgid "Korean"
+msgstr "Coreano"
+
+#: include/class/class.talent_main.php:628
+msgid "Laguages"
+msgstr "Idiomas"
+
+#: include/class/class.talent_requests.php:176
+msgid "Language Select"
+msgstr "Seleccionar Idioma"
+
+#: include/talent_post_type.php:146 templates/talents.php:49
+#: templates/talents.php:133
+msgid "Languages"
+msgstr "Idiomas"
+
+#: include/class/class.talent_main.php:907
+msgid "Languages you speak"
+msgstr "Idiomas que hablas"
+
+#: include/talent_post_type.php:132 include/talent_post_type.php:133
+#: templates/talents.php:37 templates/talents.php:38 templates/talents.php:121
+#: templates/talents.php:122 include/class/class.talent_main.php:580
+#: include/class/class.talent_main.php:622
+msgid "Last Name"
+msgstr "Apellido"
+
+#: include/class/class.talent_main.php:67
+msgid "Latvian"
+msgstr "Letón"
+
+#: include/class/class.talent_main.php:68
+msgid "Lithuanian"
+msgstr "Lituano"
+
+#: include/talent_post_type.php:71
+msgid "Main Role"
+msgstr "Rol Principal"
+
+#: include/class/class.talent_main.php:59
+msgid "Malay"
+msgstr "Malayo"
+
+#: include/class/class.talent_main.php:79
+msgid "Malayalam"
+msgstr "Malayalam"
+
+#: include/class/class.talent_main.php:77
+msgid "Marathi"
+msgstr "Maratí"
+
+#: include/class/class.talent_main.php:331
+#: include/class/class.talent_main.php:351
+msgid "Month/s"
+msgstr "Mes/es"
+
+#: include/class/class.talent_requests.php:75
+msgid "More Info:"
+msgstr "Más Información:"
+
+#: include/class/class.talent_requests.php:170
+msgid "Multiple Choice"
+msgstr "Opción Múltiple"
+
+#: include/talent_post_type.php:128 include/talent_post_type.php:129
+#: templates/talents.php:33 templates/talents.php:34 templates/talents.php:117
+#: templates/talents.php:118 include/class/class.talents.php:526
+#: include/class/class.talent_main.php:578
+#: include/class/class.talent_main.php:621
+#: include/class/class.talent_requests.php:369
+msgid "Name"
+msgstr "Nombre"
+
+#: include/class/class.talent_main.php:81
+msgid "Nepali"
+msgstr "Nepalí"
+
+#: include/talent_post_type.php:24
+msgid "New Talent"
+msgstr "Nuevo Talento"
+
+#: include/class/class.talent_requests.php:73
+msgid "New Talent Requested: Someone just submitted a quiz"
+msgstr "Nuevo Talento Solicitado: Alguien acaba de enviar un cuestionario"
+
+#: include/class/class.talent_main.php:828
+msgid "Next"
+msgstr "Siguiente"
+
+#: include/talent_post_type.php:31
+msgid "No talents found in Trash."
+msgstr "No se encontraron talentos en la Papelera."
+
+#: include/talent_post_type.php:30
+msgid "No talents found."
+msgstr "No se encontraron talentos."
+
+#: include/class/class.talent_main.php:49
+msgid "Norwegian"
+msgstr "Noruego"
+
+#: include/class/class.talent_requests.php:487
+msgid "Nothing to show yet!"
+msgstr "¡Todavía no hay nada para mostrar!"
+
+#: include/talent_post_type.php:29
+msgid "Parent Talents:"
+msgstr "Talentos Padres:"
+
+#: include/talent_post_type.php:142 include/talent_post_type.php:143
+#: templates/talents.php:45 templates/talents.php:46 templates/talents.php:129
+#: templates/talents.php:130 include/class/class.talent_main.php:586
+#: include/class/class.talent_main.php:623
+#: include/class/class.talent_requests.php:371
+msgid "Phone"
+msgstr "Teléfono"
+
+#: include/class/class.talent_main.php:53
+msgid "Polish"
+msgstr "Polaco"
+
+#: include/class/class.skills.php:496 include/class/class.techstack.php:321
+msgid "Popular"
+msgstr "Popular"
+
+#: include/class/class.talent_main.php:912
+msgid "Popular languages:"
+msgstr "Idiomas populares:"
+
+#: include/class/class.talent_main.php:885
+#: include/class/class.talent_main.php:929
+msgid "Popular Skills:"
+msgstr "Habilidades populares:"
+
+#: include/class/class.talent_main.php:39
+msgid "Portuguese"
+msgstr "Portugués"
+
+#: include/talent_post_type.php:18
+msgctxt "post type general name"
+msgid "Talents"
+msgstr "Talentos"
+
+#: include/talent_post_type.php:19
+msgctxt "post type singular name"
+msgid "Talent"
+msgstr "Talento"
+
+#: include/class/class.talent_main.php:1089
+msgid "Privacy Policy"
+msgstr "Política de Privacidad"
+
+#: templates/questions.php:280
+msgid "Privacy Policy Page"
+msgstr "Página de Política de Privacidad"
+
+#: templates/talents.php:19
+msgid "Professionals"
+msgstr "Profesionales"
+
+#: include/class/class.talents.php:529
+msgid "Profile"
+msgstr "Perfil"
+
+#: templates/talents.php:80 templates/talents.php:157
+msgid "Profile Image"
+msgstr "Imagen de Perfil"
+
+#: include/class/class.talent_main.php:630
+msgid "Profile URL"
+msgstr "URL del Perfil"
+
+#: include/class/class.talent_main.php:75
+msgid "Punjabi"
+msgstr "Punyabí"
+
+#: include/class/class.talent_requests.php:163
+msgid "Question"
+msgstr "Pregunta"
+
+#: include/menus.php:29
+msgid "Questionnaire"
+msgstr "Cuestionario"
+
+#: templates/questions.php:76
+msgid "Questions for"
+msgstr "Preguntas para"
+
+#: include/class/class.skills.php:554 include/class/class.talents.php:599
+#: include/class/class.talent_requests.php:481
+#: include/class/class.techstack.php:378
+msgid "Results not found"
+msgstr "No se encontraron resultados"
+
+#: templates/questions.php:97
+msgid "Return"
+msgstr "Volver"
+
+#: include/talent_post_type.php:156 templates/skills.php:43
+#: templates/skills.php:62 templates/talents.php:57 templates/talents.php:141
+#: include/class/class.skills.php:495 include/class/class.talent_main.php:582
+#: include/class/class.talent_main.php:625
+#: include/class/class.talent_requests.php:365
+msgid "Role"
+msgstr "Rol"
+
+#: templates/skills.php:27
+msgid "Roles"
+msgstr "Roles"
+
+#: include/class/class.talent_main.php:60
+msgid "Romanian"
+msgstr "Rumano"
+
+#: include/class/class.talent_main.php:41
+msgid "Russian"
+msgstr "Ruso"
+
+#: templates/questions.php:292
+msgid "Save"
+msgstr "Guardar"
+
+#: include/class/class.skills.php:505
+#: include/class/class.talent_requests.php:385
+#: include/class/class.techstack.php:330
+msgid "Search"
+msgstr "Buscar"
+
+#: include/talent_post_type.php:28
+msgid "Search Talents"
+msgstr "Buscar Talentos"
+
+#: include/class/class.talent_main.php:262
+msgid "Select Language"
+msgstr "Seleccionar Idioma"
+
+#: include/class/class.talent_main.php:281
+msgid "Select language"
+msgstr "Seleccionar idioma"
+
+#: include/class/class.skills.php:638
+msgid "Select Role"
+msgstr "Seleccionar Rol"
+
+#: templates/questions.php:296
+msgid "Select Roles:"
+msgstr "Seleccionar Roles:"
+
+#: include/class/class.skills.php:595 include/class/class.skills.php:614
+msgid "Select skill"
+msgstr "Seleccionar habilidad"
+
+#: include/class/class.techstack.php:409 include/class/class.techstack.php:428
+msgid "Select techstack"
+msgstr "Seleccionar pila tecnológica"
+
+#: include/class/class.talent_main.php:63
+msgid "Serbian"
+msgstr "Serbio"
+
+#: include/class/class.skills.php:511 include/class/class.skills.php:555
+#: include/class/class.talents.php:542 include/class/class.talents.php:553
+#: include/class/class.talents.php:600
+#: include/class/class.talent_requests.php:391
+#: include/class/class.talent_requests.php:482
+#: include/class/class.techstack.php:336 include/class/class.techstack.php:379
+msgid "Show All"
+msgstr "Mostrar Todo"
+
+#: include/class/class.skills.php:508 include/class/class.talents.php:550
+#: include/class/class.talent_requests.php:388
+#: include/class/class.techstack.php:333
+msgid "Showing"
+msgstr "Mostrando"
+
+#: include/class/class.talent_main.php:80
+msgid "Sinhala"
+msgstr "Cingalés"
+
+#: templates/skills.php:39 templates/skills.php:40 templates/skills.php:58
+#: templates/skills.php:59 include/class/class.skills.php:494
+msgid "Skill"
+msgstr "Habilidad"
+
+#: include/class/class.talent_requests.php:173
+msgid "Skill Select"
+msgstr "Seleccionar Habilidad"
+
+#: include/menus.php:27 include/talent_post_type.php:160
+#: templates/skills.php:23 templates/skills.php:32 templates/talents.php:61
+#: templates/talents.php:145 include/class/class.talent_main.php:626
+msgid "Skills"
+msgstr "Habilidades"
+
+#: include/class/class.talent_main.php:64
+msgid "Slovak"
+msgstr "Eslovaco"
+
+#: include/class/class.talent_main.php:65
+msgid "Slovenian"
+msgstr "Esloveno"
+
+#: include/class/class.talent_requests.php:74
+msgid "Someone has recently submitted a quiz in search of a talent"
+msgstr ""
+"Alguien ha enviado recientemente un cuestionario en busca de un talento"
+
+#: include/class/class.talent_main.php:34
+msgid "Spanish"
+msgstr "Español"
+
+#: include/class/class.talent_main.php:48
+msgid "Swedish"
+msgstr "Sueco"
+
+#. Description of the plugin
+msgid "System to manage, search and upload talents"
+msgstr "Sistema para gestionar, buscar y subir talentos"
+
+#: include/talent_post_type.php:22
+msgctxt "talent"
+msgid "Add New"
+msgstr "Agregar Nuevo"
+
+#: include/class/class.talent_main.php:571
+msgid "Talent Info"
+msgstr "Información del talento"
+
+#: include/menus.php:24 include/talent_post_type.php:27
+#: include/talent_post_type.php:59 include/talent_post_type.php:60
+msgid "Talents"
+msgstr "Talentos"
+
+#. Name of the plugin
+msgid "Talents Admin"
+msgstr "Administrador de Talentos"
+
+#: include/menus.php:25
+msgid "Talents List"
+msgstr "Lista de Talentos"
+
+#: include/class/class.talent_main.php:72
+msgid "Tamil"
+msgstr "Tamil"
+
+#: include/menus.php:28 include/talent_post_type.php:150
+#: templates/talents.php:53 templates/talents.php:137
+#: templates/techstack.php:23 templates/techstack.php:33
+#: templates/techstack.php:34 templates/techstack.php:48
+#: templates/techstack.php:49 include/class/class.talent_main.php:629
+#: include/class/class.techstack.php:320
+msgid "Tech Stack"
+msgstr "Pila de tecnología"
+
+#: include/class/class.talent_requests.php:179
+msgid "Tech Stack Select"
+msgstr "Seleccionar Pila de Tecnología"
+
+#: templates/techstack.php:26
+msgid "Techstacks"
+msgstr "Pilas de Tecnología"
+
+#: include/class/class.talent_main.php:73
+msgid "Telugu"
+msgstr "Telugu"
+
+#: templates/questions.php:284 include/class/class.talent_main.php:1090
+msgid "Terms of Service"
+msgstr "Términos de Servicio"
+
+#: include/class/class.talent_requests.php:182
+msgid "Text Field"
+msgstr "Campo de Texto"
+
+#: include/class/class.talent_main.php:56
+msgid "Thai"
+msgstr "Tailandés"
+
+#: include/class/class.talent_requests.php:69
+msgid ""
+"Thank you for your time. We will be in touch soon to assign you a "
+"professional."
+msgstr ""
+"Gracias por tu tiempo. Nos pondremos en contacto pronto para asignarle un "
+"profesional."
+
+#: include/class/class.talent_main.php:811
+msgid ""
+"Thanks for your interest! Before we get started, we would like to ask a few "
+"questions to better understand your business needs."
+msgstr ""
+"¡Gracias por tu interés! Antes de comenzar, nos gustaría hacer algunas "
+"preguntas para comprender mejor las necesidades de su negocio."
+
+#: include/class/class.talent_main.php:691
+msgid "Time"
+msgstr "Tiempo"
+
+#: include/class/class.talent_main.php:329
+#: include/class/class.talent_main.php:349
+msgid "Time of Experience"
+msgstr "Tiempo de experiencia"
+
+#: include/class/class.skills.php:508 include/class/class.talents.php:550
+#: include/class/class.talent_requests.php:388
+#: include/class/class.techstack.php:333
+msgid "Total"
+msgstr "Total"
+
+#: include/class/class.talent_main.php:47
+msgid "Turkish"
+msgstr "Turco"
+
+#: templates/skills.php:47
+msgid "Update Skill"
+msgstr "Actualizar Habilidad"
+
+#: templates/talents.php:102
+msgid "Update Talent"
+msgstr "Actualizar Talento"
+
+#: templates/techstack.php:37
+msgid "Update Tech Stack"
+msgstr "Actualizar Pila Tecnológica"
+
+#: include/class/class.talent_main.php:240
+msgid "Upload Image "
+msgstr "Subir Imagen "
+
+#: include/class/class.talent_main.php:74
+msgid "Urdu"
+msgstr "Urdu"
+
+#: templates/questions.php:77 templates/questions.php:277
+msgid "Use Shortcode"
+msgstr "Usar Shortcode"
+
+#: include/talent_post_type.php:171 templates/talents.php:74
+#: include/class/class.talents.php:575
+msgid "View"
+msgstr "Ver"
+
+#: include/talent_post_type.php:26
+msgid "View Talent"
+msgstr "Ver Talento"
+
+#: include/class/class.talent_main.php:1092
+msgid "We are here to assist you in acquiring the talent you need!"
+msgstr "¡Estamos aquí para ayudarte a adquirir el talento que necesitas!"
+
+#: include/class/class.talent_main.php:812
+msgid "What role would you like to hire?"
+msgstr "¿Qué rol te gustaría contratar?"
+
+#: include/class/class.talent_requests.php:143
+#: include/class/class.talent_requests.php:152
+msgid "Write answer here..."
+msgstr "Escribe la respuesta aquí..."
+
+#: include/class/class.talent_requests.php:164
+msgid "Write the question here..."
+msgstr "Escribe la pregunta aquí..."
+
+#: include/class/class.talent_main.php:331
+#: include/class/class.talent_main.php:351
+msgid "Year/s"
+msgstr "Año/s"
